@@ -1,6 +1,5 @@
 text = "Hello World!"
-addition = "Wat ben je toch ongelooflijk mooi."
-test = "Even testen of dit ook werkt."
+test = "Even testen of dit werkt."
 #extra = input()
 
-print(text, addition, test)
+print(text, test)
